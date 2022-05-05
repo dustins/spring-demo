@@ -1,3 +1,7 @@
+## Run
+
+    > ./gradlew bootRun
+
 ## Helpful Commands
 
 ### Format Responses
